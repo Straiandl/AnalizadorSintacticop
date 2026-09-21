@@ -110,7 +110,7 @@ python analizador_LR1.py
 ---
 
 ##  Ejemplo de Salida en Consola (Prueba con `"a+b"`)
-![Salida Consola ejercicio 1]()
+![Salida Consola ejercicio 1](https://github.com/Straiandl/AnalizadorSintacticop/blob/037173398d73537ae80a2e310e01acf13d2225fb/Sintactico1.png)
 
 ![Salida Consola ejercicio 2]()
 
