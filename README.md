@@ -93,7 +93,7 @@ Al ejecutarse una reducción $r_k$:
 
 ---
 
-## 💻 Requisitos y Ejecución
+## Requisitos y Ejecución
 
 ### Requisitos
 
@@ -110,7 +110,9 @@ python analizador_LR1.py
 ---
 
 ##  Ejemplo de Salida en Consola (Prueba con `"a+b"`)
-![Salida Consola]()
+![Salida Consola ejercicio 1]()
+
+![Salida Consola ejercicio 2]()
 
 ```
 
